@@ -18,27 +18,19 @@ ds-core-projects/
 ├── time-series-analysis/        # Econometric trend forecasting & ARIMAX models
 └── xgboost-models/              # Tabular gradient boosting & evaluation
 ```
-🧠 Key Domains Covered
-Gradient Boosting & ML Ensembles: Optimized XGBoost pipeline execution and core machine learning models for tabular prediction.
+## 🧠 Key Domains Covered
 
-Optimization & Operations: Linear programming models for resource allocation and operational decision-making.
+* **Gradient Boosting & ML Ensembles:** Optimized XGBoost pipeline execution and core machine learning models for tabular prediction.
+* **Optimization & Operations:** Linear programming models for resource allocation and operational decision-making.
+* **Predictive Time-Series Analysis:** ARIMAX, ARIMA, and econometric trend decomposition models.
+* **Natural Language Processing (NLP):** Sentiment scoring, text vectorization, and NLP classification models.
+* **Recommendation Systems:** Hybrid, collaborative, and content-based filtering engines.
+* **Anomaly & Fraud Detection:** Outlier detection and statistical variance scoring.
 
-Predictive Time-Series Analysis: ARIMAX, ARIMA, and econometric trend decomposition models.
+---
 
-Natural Language Processing (NLP): Sentiment scoring, text vectorization, and NLP classification models.
+## 🛠️ Stack & Technologies
 
-Recommendation Systems: Hybrid, collaborative, and content-based filtering engines.
-
-Anomaly & Fraud Detection: Outlier detection and statistical variance scoring.
-
-🛠️ Stack & Technologies
-Languages: Python (3.10+)
-
-Libraries: Pandas, NumPy, Scikit-Learn, XGBoost, Statsmodels, PuLP/SciPy (Optimization), Matplotlib, Seaborn
-
-Execution Environment: Google Colab / Jupyter Notebooks
-
-👤 Author
-Daniel Bon Daza, MBA – Data Analyst & RevOps Specialist
-
-LinkedIn: Connect on LinkedIn
+* **Languages:** Python (3.10+)
+* **Libraries:** Pandas, NumPy, Scikit-Learn, XGBoost, Statsmodels, PuLP/SciPy (Optimization), Matplotlib, Seaborn
+* **Execution Environment:** Google Colab / Jupyter Notebooks
