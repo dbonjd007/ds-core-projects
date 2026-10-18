@@ -17,7 +17,7 @@ ds-core-projects/
 ├── sentiment-analysis/          # NLP preprocessing, vectorization & classification
 ├── time-series-analysis/        # Econometric trend forecasting & ARIMAX models
 └── xgboost-models/              # Tabular gradient boosting & evaluation
-
+```
 🧠 Key Domains Covered
 Gradient Boosting & ML Ensembles: Optimized XGBoost pipeline execution and core machine learning models for tabular prediction.
 
