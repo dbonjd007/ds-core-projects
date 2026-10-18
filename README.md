@@ -1,12 +1,19 @@
-# Data Science Core Projects 🧪
+# 🧪 Data Science Core Projects & Applied ML
 
-A collection of applied data science implementations, coursework assessments, and analytical models.
+A centralized showcase of modular implementations, statistical workflows, and machine learning architectures covering statistical modeling, optimization, natural language processing, recommendation engines, and anomaly detection.
 
 ---
 
-## 📌 Featured Module Projects
+## 📁 Repository Structure
 
-* 🛡️ **[Anomaly Detection & Fraud Prevention](./anomaly-detection-fraud-prevention)** – Applied machine learning techniques for detecting financial anomalies and preventing fraudulent activity.
-* 🎯 **[Recommendation Systems](./recommendation-systems)** – Implementations of Content-Based Filtering, Collaborative Filtering, and Hybrid Recommendation algorithms applied to games and media.
-* 📊 **Exploratory Data Analysis (EDA)** – Advanced data cleaning, feature engineering, and statistical analysis.
-* 🗣️ **Natural Language Processing (NLP)** – Text classification, vectorization, and sentiment analysis models.
+```text
+ds-core-projects/
+├── anomaly-detection/           # Statistical fraud detection & outlier evaluation
+├── financial-modeling/          # Stock performance & financial trend modeling
+├── linear-programming/          # Optimization models & operational linear constraints
+├── machine-learning-models/     # Core supervised machine learning algorithms & pipelines
+├── recommendation-systems/      # Content-based, collaborative & hybrid filtering
+├── regression-analysis/         # Statistical linear & non-linear regression modeling
+├── sentiment-analysis/          # NLP preprocessing, vectorization & classification
+├── time-series-analysis/        # Econometric trend forecasting & ARIMAX models
+└── xgboost-models/              # Tabular gradient boosting & evaluation
